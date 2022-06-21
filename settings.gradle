@@ -1,0 +1,4 @@
+rootProject.name = 'kafka'
+include 'kafka-2'
+include 'kafka-producer-wikimedia'
+
